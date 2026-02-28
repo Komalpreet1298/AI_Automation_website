@@ -4,7 +4,7 @@ AI Suite is a performance-driven AI automation platform designed for ₹1–10Cr
 
 This website presents our AI automation services including AI Lead Generation, AI Personal Assistants, Managed Detection & Response (MDR), and AI Governance.
 
----
+
 
 ## 🚀 Live Website
 
@@ -13,7 +13,7 @@ Example:
 
 https://yourname.github.io/ai-suite-website
 
----
+
 
 ## 🎯 Target Businesses
 
@@ -29,7 +29,7 @@ Typical company size:
 
 ₹1Cr – ₹10Cr annual revenue
 
----
+
 
 ## ⚡ Features
 
@@ -40,7 +40,7 @@ Typical company size:
 - CRM integration
 - Meeting booking automation
 
----
+
 
 ### AI Personal Assistant
 
@@ -49,7 +49,6 @@ Typical company size:
 - Task management
 - Client follow-ups
 
----
 
 ### Managed Detection & Response (MDR)
 
@@ -58,7 +57,7 @@ Typical company size:
 - System monitoring
 - Security alerts
 
----
+
 
 ### AI Governance
 
@@ -67,7 +66,7 @@ Typical company size:
 - Compliance checks
 - Governance reporting
 
----
+
 
 ## 🧠 Technology Stack
 
@@ -76,8 +75,3 @@ This website is built using:
 - HTML
 - CSS
 - JavaScript
-- Google AI Studio generated code
-
----
-
-## 📦 Project Structure
