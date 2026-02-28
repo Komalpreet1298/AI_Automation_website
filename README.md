@@ -1,20 +1,83 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Suite – Performance-Driven AI Automation
 
-# Run and deploy your AI Studio app
+AI Suite is a performance-driven AI automation platform designed for ₹1–10Cr revenue IT and SaaS businesses. Our solutions help companies automate operations, improve efficiency, and scale without increasing team size.
 
-This contains everything you need to run your app locally.
+This website presents our AI automation services including AI Lead Generation, AI Personal Assistants, Managed Detection & Response (MDR), and AI Governance.
 
-View your app in AI Studio: https://ai.studio/apps/18b1ca99-9bb0-40c6-8d88-0a62b8d305d0
+---
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 🚀 Live Website
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Example:
+
+https://yourname.github.io/ai-suite-website
+
+---
+
+## 🎯 Target Businesses
+
+This platform is designed for:
+
+- IT Service Companies
+- SaaS Companies
+- Digital Agencies
+- Export-Oriented IT Firms
+- Growing Businesses in Mohali & Chandigarh
+
+Typical company size:
+
+₹1Cr – ₹10Cr annual revenue
+
+---
+
+## ⚡ Features
+
+### AI Lead Generation
+
+- Automated prospecting
+- Personalized outreach
+- CRM integration
+- Meeting booking automation
+
+---
+
+### AI Personal Assistant
+
+- Email automation
+- Calendar scheduling
+- Task management
+- Client follow-ups
+
+---
+
+### Managed Detection & Response (MDR)
+
+- Automated threat detection
+- Incident response automation
+- System monitoring
+- Security alerts
+
+---
+
+### AI Governance
+
+- AI risk assessments
+- Bias monitoring
+- Compliance checks
+- Governance reporting
+
+---
+
+## 🧠 Technology Stack
+
+This website is built using:
+
+- HTML
+- CSS
+- JavaScript
+- Google AI Studio generated code
+
+---
+
+## 📦 Project Structure
